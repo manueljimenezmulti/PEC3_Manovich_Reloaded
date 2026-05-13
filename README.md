@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Re-descubriendo la hibridacion
+### Re-descubriendo la hibridación
 
 Autor: &nbsp; Manuel Jiménez Jerónimo
 
