@@ -39,7 +39,7 @@ Los medios que se hibridan en esta plataforma son:
 
 La mezcla hace que la fotografía deje de ser una imagen estática, un objeto para ser mirado, y se convierte en la textura de un objeto tridimensional y navegable. En este proceso, el software transcodifica la vivienda física en una estructura de datos donde cada pixel de la imagen está geolocalizado dentro de un modelo espacial.
 
-### Implicaciones de la Estética Híbrida
+### Estética híbrida de la transparencia espacial
 En este caso surge una estética de la trasnparencia espacial. El usuario no siente que está mirando una pantalla, sino que experimenta un efecto visual que mezcla el realismo fotográfico con la ingravidez de lo digital. No existen cortes, la transición es fluida y basada en el desplazamiento de datos en tiempo real. Ésto altera nuestra percepción de la propiedad y del espacio, convirtiendo lo que debería ser una visita física en una experiencia totalmente informatizada y navegable.  
 
 
@@ -57,7 +57,7 @@ En este segundo caso, la hibridación se da en la frontera entre la expresión b
 
 La hibridación se produce cuando Google aplica técnicas de análisis propias del texto, como la busqueda por palabras clave, a la frecuencia melódica del sonido. El software transcodifica nuestra melodía en una secuencia numérica simplificada, elimininando el timbre, tono, e imperfección vocal, quedandose solo con la "huella melódica".
 
-### Estética de la abstracción melódica
+### Estética híbrida de la abstracción melódica
 Este caso lleva a una estética de abstracción melódica, que hace que lo invisble, como un pensamiento musical o el recuerdo de una canción silbada, se presente ante nosotros tras la busqueda. La interfaz nos muestra resultados visuales ordenados y limpios (imágenes, vídeos, letras ...). La estética híbrida en este caso, reside en la desaparición del esfuerzo técnico. El software elimina la complijidad del proceso de búsqueda para permitir que nuestra voz actúe como un periférico de entrada. Es la fusión de la memoria humana con el inmenso "conocimiento" de la base de datos.
 
 ## Uso de la IA y Metodología.
