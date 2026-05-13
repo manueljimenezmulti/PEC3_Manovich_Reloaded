@@ -24,7 +24,7 @@ La hibridación sucede cuando las técnicas, interfaces y leguajes particulares 
 Teniendo en cuenta ésto, voy a seguir hablando sobre como dos herramientas cotidianas, una enfocada a explorar espacios, que queremos ver, sin necesidad de ir físicamente a verlos, y otra al reconocimiento sonoro, llevan a cabo esta hibridación.
 
 
-## Caso 1. Visitas Virtuales 3D en Idealista
+## Caso 1. Visitas Virtuales 3D en Idealista (o cualquiero otro sitio web de anuncios de viviendas).
 
 Consiste en acceder al enlace de un anuncio, y dentro del mismo acceder a un entorno, estilo Street View, en el cual podemos movernos por la vivienda para verla, como si estuvieramos allí físicamente.
 
