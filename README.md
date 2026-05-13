@@ -62,7 +62,7 @@ Este caso lleva a una estética de abstracción melódica, que hace que lo invis
 
 ## Uso de la IA y Metodología.
 
-En el desarrollo de esta PEC he utilizado la IA Gemini (Google) para:
+En el desarrollo de esta PEC he utilizado Gemini para:
 
 **·Selección de los casos.**
 
