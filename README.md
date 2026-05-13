@@ -26,6 +26,8 @@ Teniendo en cuenta ésto, voy a seguir hablando sobre como dos herramientas coti
 
 ## Caso 1. Visitas Virtuales 3D en Idealista
 
+Consiste en acceder al enlace de un anuncio, y dentro del mismo acceder a un entorno, estilo Street View, en el cual podemos movernos por la vivienda para verla, como si estuvieramos allí físicamente.
+
 Este caso representa un claro ejemplo de hibridación avanzada. No se limita a presentar una galería de imágenes o planos estáticos (multimedia), sino que mezcla diversos elementos en una sola interfaz, inmersiva y navegable. 
 Los medios que se hibridan en esta plataforma son:
 
@@ -35,18 +37,45 @@ Los medios que se hibridan en esta plataforma son:
 
 **·Motores de Videojuegos y Navegación Espacial:** La lógica de interacción en primera persona permite al usuario desplazarse por el modelo con total libertad de movimiento.
 
+La mezcla hace que la fotografía deje de ser una imagen estática, un objeto para ser mirado, y se convierte en la textura de un objeto tridimensional y navegable. En este proceso, el software transcodifica la vivienda física en una estructura de datos donde cada pixel de la imagen está geolocalizado dentro de un modelo espacial.
+
 ### Implicaciones de la Estética Híbrida
-Surge aquí una estética de la trasnparencia espacial. El usuario no siente que está mirando una pantalla, sino que experimenta un efecto visual que mezcla el realismo fotográfico con la ingravidez de lo digital. No existen cortes, la transición es fluida y basada en el desplazamiento de datos en tiempo real. Ésto altera nuestra percepción de la propiedad y del espacio, convirtiendo lo que debería ser una visita física en una experiencia totalmente informatizada y navegable.  
+En este caso surge una estética de la trasnparencia espacial. El usuario no siente que está mirando una pantalla, sino que experimenta un efecto visual que mezcla el realismo fotográfico con la ingravidez de lo digital. No existen cortes, la transición es fluida y basada en el desplazamiento de datos en tiempo real. Ésto altera nuestra percepción de la propiedad y del espacio, convirtiendo lo que debería ser una visita física en una experiencia totalmente informatizada y navegable.  
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Caso 2. Google "Hum to Search"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Es la aplicación integrada en la barra de busqueda de Google, que aparece en el launch de todos los Android. En la barra hay un icono de un micrófono. Si lo pulsamos nos sale el mensaje "Escuchando..." y en la parte inferior nos aparece un botón que dice "Buscar canción", al pulsar sobre él nos indica "Reproduce Canta Tararea". Podemos acercar el móvil al altavoz donde esté sonando la canción, cantarla nosotros mismos, o tararear la canción que queramos. Esto también se puede hacer directamente pulsando en el microfono y esperando, aunque es menos preciso que si pulsamos en "Buscar canción", ya que se utiliza para hacer busquedas generales con Google, buscando lo que le indiquemos por voz.
+
+En este segundo caso, la hibridación se da en la frontera entre la expresión biológica humana y la lógica de procesamiento masivo de la máquina. Es un encuentro entre lo orgánico y lo algorítmico a través de los siguientes medios:
+
+**·Voz Humana (Acústica Analógica):** Un medio primario, cargado de imprecisión, ruido y variaciones personales (el tarareo o el silbido).
+
+**·Big Data y Almacenamiento Masivo:** La infraestructura global que organiza y clasifica millones de huellas musicales digitales.
+
+**·Sistemas de Reconocimiento de Patrones (Machine Learning):** Algoritmos de inteligencia artificial que actúan como traductores entre la intención humana y el dato.
+
+La hibridación se produce cuando Google aplica técnicas de análisis propias del texto, como la busqueda por palabras clave, a la frecuencia melódica del sonido. El software transcodifica nuestra melodía en una secuencia numérica simplificada, elimininando el timbre, tono, e imperfección vocal, quedandose solo con la "huella melódica".
+
+### Estética de la abstracción melódica
+Este caso lleva a una estética de abstracción melódica, que hace que lo invisble, como un pensamiento musical o el recuerdo de una canción silbada, se presente ante nosotros tras la busqueda. La interfaz nos muestra resultados visuales ordenados y limpios (imágenes, vídeos, letras ...). La estética híbrida en este caso, reside en la desaparición del esfuerzo técnico. El software elimina la complijidad del proceso de búsqueda para permitir que nuestra voz actúe como un periférico de entrada. Es la fusión de la memoria humana con el inmenso "conocimiento" de la base de datos.
+
+## Uso de la IA y Metodología.
+
+En el desarrollo de esta PEC he utilizado la IA Gemini (Google) para:
+
+**·Selección de los casos.**
+
+**·Apoyo a la documentación:** Asegurar que los conceptos de hibridación, metamedio y transcodificación se aplican basandose en el texto de Manovich.
+
+**·Ayuda a identificar medios originales y resultantes de la hibridación.**
 
 
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Adell, Ferran (2024). **Remediación, multimedia e hibridación de los medios**. Barcelona: Editorial UOC.
+* Gea, Miguel (2022). **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto**. Universidad de Granada.
 
 
 ----
